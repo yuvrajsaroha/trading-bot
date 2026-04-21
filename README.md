@@ -24,3 +24,4 @@ Check bot.log file
 
 - Uses Binance Futures Testnet
 - Supports MARKET & LIMIT orders
+- ⚠️ This is a CLI-based Python application and cannot be run in a browser.
